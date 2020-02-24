@@ -1,7 +1,7 @@
 # require 'pry'
 #write your code here
 
-def countdown(num)
+def countdown(x)
   while x < 12
   puts "#{x} SECOND!"
   x -= 1
