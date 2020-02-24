@@ -4,3 +4,5 @@ require 'pry'
 def countdown(num)
   binding.pry
 end
+put "HAPPY NEW YEAR!"
+end
